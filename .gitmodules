@@ -1,0 +1,3 @@
+[submodule "apps/AlloBaby_alexa_skill"]
+	path = apps/AlloBaby_alexa_skill
+	url = https://github.com/divyakrishnan91/AlloBaby_alexa_skill.git
