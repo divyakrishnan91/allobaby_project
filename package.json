@@ -1,0 +1,30 @@
+{
+  "name": "allobaby_project",
+  "version": "1.0.0",
+  "description": "AlloBay is an ai based personal healthcare assistant",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "AlloBaby how is my body this week",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyakrishnan91/allobaby_project.git"
+  },
+  "keywords": [
+    "AlloBaby",
+    "symptoms",
+    "weekly",
+    "information"
+  ],
+  "author": "Divya Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyakrishnan91/allobaby_project/issues"
+  },
+  "homepage": "https://github.com/divyakrishnan91/allobaby_project#readme"
+}
